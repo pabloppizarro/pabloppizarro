@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pablo Pizarro</h1>
 <h3 align="center">Front end dev from Mendoza 🍷, Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloppizarro" alt="pabloppizarro" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloppizarro&title=Commits,Repositories,PullRequest&theme=dracula" alt="pabloppizarro" /></a> </p>
 
-- 🔭 I’m currently working on [Full stack MEAN solo project from scratch](https://gamehard.tech)
+- 🔭 I’m currently working on [Full stack MEAN products catalog for a small tech store](https://gamehard.tech)
 
-- 🌱 I’m currently learning **Frontend architectures, JS, RxJS, API.**
+- 🌱 I’m currently learning **Frontend architectures, deep JS, RxJS, API, best practices.**
 
-- 💬 Ask me about **Angular, MEAN stack, UI KIT libraries, etc**
+- 💬 Ask me about **Angular, MEAN stack, UI toolkits, etc.**
 
 - 📫 How to reach me **pizarro.pablo@outlook.com**
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloppizarro&show_icons=true&locale=en" alt="pabloppizarro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloppizarro&" alt="pabloppizarro" /></p>
-
