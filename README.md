@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact **Dont try One Piece. You'll be hooked.**
 
+- 👾 Lately playing some Apex Legends with friends.
+
+- 👶 My favorite games of all time: Diablo 2 LoD, Aion, Gunz.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo-ppizarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-ppizarro" height="30" width="40" /></a>
