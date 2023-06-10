@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Full stack MEAN products catalog for a small tech store](https://gamehard.tech)
 
-- 🌱 I’m currently learning **Frontend architectures, deep JS, RxJS, API, best practices.**
+- 🌱 I’m currently learning [Frontend architectures, deep JS, RxJS, API, best practices.](https://frontendmasters.com/u/pablopizarro/)
 
 - 💬 Ask me about **Angular, MEAN stack, UI toolkits, etc.**
 
