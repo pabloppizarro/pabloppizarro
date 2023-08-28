@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on a [full stack MEAN products web catalog for a small tech store](https://gamehard.tech).
 - 🌱 I’m actively learning [frontend architectures, deep JS, RxJS, API, best practices.](https://frontendmasters.com/u/pablopizarro/)
 
-
+<p style="max-width: 75ch">
+   In recent months, I've been dedicated to learning and honing the fundamentals of web development, especially JavaScript. I've also been shaping my profile as a Software Engineer, focusing on studying computer science with a JavaScript orientation. I worked for 3 years for companies in Argentina and Chile as a developer, and after 2 years of working for myself, I've decided to return to the industry to further refine my skills.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
