@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Pizarro</h1>
-<h3 align="center">Frontend Developer from Mendoza 🍷, Argentina</h3>
+<h3 align="center">Full Stack Developer from Mendoza 🍷, Argentina</h3>
 
 - 🔭 I’m currently working on a [full stack MEAN products web catalog for a small tech store](https://gamehard.tech).
 - 🌱 I’m actively learning [frontend architectures, deep JS, RxJS, API, best practices.](https://frontendmasters.com/u/pablopizarro/)
