@@ -12,7 +12,7 @@
 
 <a href="https://pabloppizarro.github.io/"><img alt="Pablo Pizarro" src="https://img.shields.io/badge/website-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pabloppizarro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://drive.google.com/drive/folders/1V2Wldue-3ccMHMpdZiZGrMfNlUWNYzDv?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=mail&logoColor=white"></a>
+<a href="https://drive.google.com/drive/folders/1V2Wldue-3ccMHMpdZiZGrMfNlUWNYzDv?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=mail&logoColor=white"></a>
 <a href="https://leetcode.com/pabloppizarro/"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://frontendmasters.com/u/pablopizarro/"><img alt="FrontendMasters" src="https://img.shields.io/badge/-Frontend_Masters-D4312B?style=for-the-badge&logoColor=black"></a>
 <a href="/"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-pizarro.pablo@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
