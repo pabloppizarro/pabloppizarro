@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pablo Pizarro</h1>
 <h3 align="center">Full Stack Developer from Mendoza 🍷, Argentina</h3>
 
-- 🔭 I’m currently working on a [full stack MEAN products web catalog for a small tech store](https://gamehard.tech).
+- 👔 Full time job at @mercadolibre as a API backend / BFF developer using NodeJS and TS as a main stack.
+- 🔭 I’m currently maintaining my own [full stack MEAN products web catalog for a small tech store](https://gamehard.tech).
 - 🌱 I’m actively learning [frontend architectures, deep JS, RxJS, API, best practices.](https://frontendmasters.com/u/pablopizarro/)
 
 <p style="max-width: 75ch">
